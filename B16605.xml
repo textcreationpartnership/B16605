@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the manner of taking the late Duke of Monmouth, &amp;c. By His Majesties command.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16605</idno><idno type="EEBO-CITATION">99888866</idno>
+  <idno type="VID">196392</idno>
+  <idno type="EEBO-PROQUEST">2240903622</idno>
+  
+            <idno type="STC">Wing A323</idno>
+            <idno type="STC">Interim Tract Supplement Guide 807.g.5.[40]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R232391</idno>
+            <idno type="PROQUEST">ocm99888866</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888866e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196392)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:3[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the manner of taking the late Duke of Monmouth, &amp;c. By His Majesties command.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke, printer the Kings most excellent Majesty: and are to be sold by Andrew Crook at the printinghouse on Ormonde-Key, and by Samuel Helsham at the Colledge-arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Monmouth, James Scott, --  Duke of, 1649-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Monmouth's Rebellion, 1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:196392:1"/>
+            <head>AN ACCOUNT OF THE Manner of Taking the late Duke OF MONMOUTH, &amp;c.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>By His Majesties Command.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>IMmediately after the Defeat of the Rebels at <hi>Bridgewater;</hi> on <hi>Monday</hi> the sixth of <hi>July</hi> instant; the late Duke of <hi>Monmouth,</hi> late Lord <hi>Grey,</hi> and the <hi>Brandenburg</hi> fled; and coming be<g ref="char:EOLhyphen"/>tween <hi>Gillingham</hi> and <hi>Shaftsbury,</hi> got a Guide to lead them the way to the New Forest, most free from Towns and Watches; he led them by <hi>White-Sheet</hi> four miles East of <hi>Shaftsbury,</hi> and thence by <hi>Cranborne</hi> Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le; where their Horses being tir'd, they let them loose, and hid their Bridles and Saddle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>In the mean time, the news of the said Defeat coming to the Lord <hi>Lumley,</hi> then posted at <hi>Ringwood</hi> in <hi>Hampshire,</hi> with three Troops of Horse of Collonel <hi>Stapl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> Regiment, commanded by Major <hi>Bridger,</hi> Captain <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nk,</hi> and Captain <hi>Peckham;</hi> and four
+<pb n="2" facs="tcp:196392:2"/> Companies of Foot of Collonel <hi>Alfords</hi> Regiment, Commanded by Lieutenant Collonel <hi>Cooper,</hi> Captain <hi>Bickely,</hi> Captain <hi>Best,</hi> and Captain <hi>Carre,</hi> all of the <hi>Sussex</hi> Militia: His Lordship was pleased to send his Scouts every way to take up suspected persons; and Sir <hi>William Portman,</hi> for the same end, had taken care for strong Watches to be set, made up of his yellow Coats, and others, on the Roads from <hi>Pool</hi> to the most Northern Parts of <hi>Dorset.</hi>
+            </p>
+            <p>Upon the seventh Instant, about five in the Morning, some of the Lord <hi>Lumleys</hi> said Scouts (riding in the Road near <hi>Holt Lodge</hi> in <hi>Dorset,</hi> four miles West of <hi>Ringwood</hi>) just at the turn of a cross<g ref="char:EOLhyphen"/>way, surpriz'd and seiz'd two suspected Persons; which (when the Lord <hi>Lumley</hi> came up) prov'd to be the late Lord <hi>Grey,</hi> and the said Guide: This put the Lord <hi>Lumley</hi> upon a strict examining of the Cottages (with which that Heathy <hi>Countrey</hi> abounds) and call'd in the Neighbourhood that were acquainted with the <hi>Coun<g ref="char:EOLhyphen"/>trey, &amp;c.</hi> Notice of this being brought to Sir <hi>William Portman,</hi> by some of his Watches, <hi>&amp;c.</hi> He hasten'd to the place, with as many Horse and Foot as he could of a sudden get together.</p>
+            <p>It happen'd upon the Lord <hi>Lumley's</hi> inquiry amongst the <hi>Cot<g ref="char:EOLhyphen"/>tages,</hi> that a poor Woman, one <hi>Amy Farrant</hi> directed his Lord<g ref="char:EOLhyphen"/>ship to an Hedge, where she had seen two men go over; which Hedge prov'd to be part of the out-bounds of very many enclosed grounds; some overgrown by Fearn and Brakes, and others sown with <hi>Rye, Pease,</hi> or <hi>Oats, &amp;c.</hi>
+            </p>
+            <p>Whereupon a strict Guard was put very near one another, round those out-bounds; whilst other Foot and Horse did beat within: These Guards kept their several Posts so well, that though the late Duke, and the <hi>Brandenburgh</hi> attempted at least thirty times to make their escape out, yet they always found each Guard ready; and upon their last attempt to escape, two of the Troopers Fireing on them, made them immediately to retire, and hide themselves apart from each other, in some of the adjacent Ditches, where they were afterwards found▪</p>
+            <p>Upon the eighth day by five of the clock in the morning, the <hi>Brandenburgh</hi> was found; who upon Examination, confess'd, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e parted with the said late Duke within the same out-bounds a<g ref="char:EOLhyphen"/>bout
+<pb n="3" facs="tcp:196392:2"/> one of the clock that morning: whereupon every individual person being encourag'd thereby, and by the hopes of having a share in the Five thousand pounds (as was before agreed of in the Field) did renew the pursuit of him with the strictest search and diligence imaginable; and about seven of the clock of the same morning, one <hi>Henry Parkin</hi> (Servant to <hi>Samuel Rolles</hi> Esq;) hap<g ref="char:EOLhyphen"/>pened to discover the said late Duke hid in a Ditch covered with Fearn and Brakes, and calling to two of the <hi>Sussex</hi> Troopers that were by him, all three seiz'd him together: Sir <hi>William Portman</hi> happening to be near that place, rid presently, in, and quieted those that cried <hi>Shoot him, shoot him!</hi> He laid hands on him as his Prisoner; and so preserved him from all Violence and Rudeness: And immediately in the same instant, the Lord <hi>Lumley</hi> came in, and agreed that Sir <hi>William Portman</hi> should search him; which was done, and as soon as they had sound his <hi>George,</hi> they dispatch<g ref="char:EOLhyphen"/>ed that, with the News to His Majesty by Captain <hi>Bickely,</hi> and Mr. <hi>Chaldecot,</hi> a <hi>Sussex</hi> and <hi>Dorset</hi> Gentleman.</p>
+            <p>The Prisoners after this were kept two nights at <hi>Ringwood.</hi> On <hi>Friday</hi> the Lord <hi>Lumley</hi> discharged the Foot there; and with the said three Troops of the <hi>Sussex</hi> Horse, and one Troop of the <hi>Dorset</hi> Militia, commanded by Captain <hi>Fownes,</hi> they were convey<g ref="char:EOLhyphen"/>ed to <hi>Winchester,</hi> where joyn'd them two Troops of his Majesties in pay, and two of the <hi>Northampton</hi> Militia Troops, all which con<g ref="char:EOLhyphen"/>ducted them to <hi>Farnham</hi> Castle upon <hi>Saturday</hi> the eleventh, and the next day to <hi>Guilford,</hi> and upon <hi>Monday</hi> the thirteenth to <hi>Fox-Hall,</hi> where a Regiment of the Lord <hi>Dartmouths</hi> received them, with other Troops of his Majesties in pay, and thence by Barge they were carried to <hi>Whitehall.</hi>
+            </p>
+            <p>The Papers and Books that were found on him are since de<g ref="char:EOLhyphen"/>liver'd to his Majesty.</p>
+            <p>One of the Books was a Manuscript of Spells, Charms, and Conjurations, Songs, Receits, and Prayers, all written with the said late Dukes own hand.</p>
+            <p>Two others were Manuscripts of Fortification, and the Military Art.</p>
+            <p>And a fourth Book fairly written, wherein are Computes of the yearly Expence of His Majesties Navy and Land Forces.</p>
+            <pb n="4" facs="tcp:196392:3"/>
+            <p>And as for his Gold; only twenty Guinies were given to the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d <hi>Parkin,</hi> and ten Guinies apiece to the two Troopers that first <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>z'd and the rest was return'd to the said late Duke.</p>
+            <p>As the Prisoners passed through <hi>Rumsey, Winchester, Farnham,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d <hi>Guilford,</hi> one would admire to see the very great numbers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e Militia, with the Deputy Lieutenants, and Gentlemen of those <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>rts, that were ready to guard them, and take off the Fatigue of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>h as were on the march.</p>
+            <p>Within doors none but Commission-Officers were trusted to <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>tch by them; and besides those, the Lord <hi>Lumley</hi> and Sir <hi>Wil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>m Portman</hi> took their turns to watch in person night and day, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>om the time of the taking of the said late Duke, until they had <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>livered him safe at <hi>Whitehall,</hi> from whence he was conveyed to the <hi>Tower.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Dublin, Printed by Benjamin Tooke, Printer the Kings most Excellent Majesty: And are to be sold by Andrew Crook at the Printinghouse on Ormonde-Key, and by Samuel Helsham at the Colledge-Arms in Castle-street.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
